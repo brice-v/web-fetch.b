@@ -20,6 +20,18 @@ web-fetch.b help
 web-fetch.b "https://go.dev"
 ```
 
+## Output
+
+Returns Markdown (from example: `web-fetch.b "https://bricev.xyz"`)
+
+```
+# Nothing to see here...
+
+Page Loaded at: Mon May 18 01:40:43 UTC 2026
+
+Check out my github pages at [https://blog.bricev.xyz](https://blog.bricev.xyz)
+```
+
 ## Requirements
 
 - [Blue](https://github.com/brice-v/blue) (the `blue` interpreter)
